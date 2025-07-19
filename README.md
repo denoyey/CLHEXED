@@ -60,7 +60,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
 1. Clone repository:
 
    > ```bash
-   > git clone https://github.com/username/CLHEXED.git
+   > git clone https://github.com/denoyey/CLHEXED.git
    > cd CLHEXED
    > ```
 
