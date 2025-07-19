@@ -1,0 +1,77 @@
+[2025-07-19T14:52:45.351371 13434] === CCACHE 4.11.2 STARTED =========================================
+[2025-07-19T14:52:45.351371 13434] Configuration file: /home/xnoname/.cache/Nuitka/ccache/ccache.conf
+[2025-07-19T14:52:45.351371 13434] System configuration file: /etc/ccache.conf
+[2025-07-19T14:52:45.351371 13434] Config: (default) absolute_paths_in_stderr = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) base_dir = 
+[2025-07-19T14:52:45.351371 13434] Config: (environment) cache_dir = /home/xnoname/.cache/Nuitka/ccache
+[2025-07-19T14:52:45.351371 13434] Config: (default) compiler = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) compiler_check = mtime
+[2025-07-19T14:52:45.351371 13434] Config: (default) compiler_type = auto
+[2025-07-19T14:52:45.351371 13434] Config: (default) compression = true
+[2025-07-19T14:52:45.351371 13434] Config: (default) compression_level = 0
+[2025-07-19T14:52:45.351371 13434] Config: (default) cpp_extension = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) debug = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) debug_dir = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) debug_level = 2
+[2025-07-19T14:52:45.351371 13434] Config: (default) depend_mode = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) direct_mode = true
+[2025-07-19T14:52:45.351371 13434] Config: (default) disable = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) extra_files_to_hash = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) file_clone = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) hard_link = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) hash_dir = true
+[2025-07-19T14:52:45.351371 13434] Config: (default) ignore_headers_in_manifest = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) ignore_options = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) inode_cache = true
+[2025-07-19T14:52:45.351371 13434] Config: (default) keep_comments_cpp = false
+[2025-07-19T14:52:45.351371 13434] Config: (environment) log_file = /home/xnoname/Documents/CLHEXED/main.onefile-build/ccache-13416.txt
+[2025-07-19T14:52:45.351371 13434] Config: (default) max_files = 0
+[2025-07-19T14:52:45.351371 13434] Config: (default) max_size = 5.0 GiB
+[2025-07-19T14:52:45.351371 13434] Config: (default) msvc_dep_prefix = Note: including file:
+[2025-07-19T14:52:45.351371 13434] Config: (default) namespace = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) path = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) pch_external_checksum = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) prefix_command = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) prefix_command_cpp = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) read_only = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) read_only_direct = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) recache = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) remote_only = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) remote_storage = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) reshare = false
+[2025-07-19T14:52:45.351371 13434] Config: (default) response_file_format = auto
+[2025-07-19T14:52:45.351371 13434] Config: (default) run_second_cpp = true
+[2025-07-19T14:52:45.351371 13434] Config: (environment) sloppiness = include_file_ctime, include_file_mtime
+[2025-07-19T14:52:45.351371 13434] Config: (default) stats = true
+[2025-07-19T14:52:45.351371 13434] Config: (default) stats_log = 
+[2025-07-19T14:52:45.351371 13434] Config: (default) temporary_dir = /run/user/1000/ccache-tmp
+[2025-07-19T14:52:45.351371 13434] Config: (default) umask = 
+[2025-07-19T14:52:45.351371 13434] Command line: /usr/bin/ccache /usr/bin/gcc -o static_src/OnefileBootstrap.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -Wno-unused-but-set-variable -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_NUITKA_STANDALONE_MODE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -D_NUITKA_EXE_MODE -D_WIN32_WINNT=0x0601 -D__NUITKA_NO_ASSERT__ -D_NUITKA_EXE_MODE -I/home/xnoname/.local/lib/python3.13/site-packages/nuitka/build/inline_copy/zlib -I. -I/home/xnoname/.local/lib/python3.13/site-packages/nuitka/build/include -I/home/xnoname/.local/lib/python3.13/site-packages/nuitka/build/static_src -I/home/xnoname/.local/lib/python3.13/site-packages/nuitka/build/inline_copy/zstd static_src/OnefileBootstrap.c
+[2025-07-19T14:52:45.351371 13434] Hostname: kali
+[2025-07-19T14:52:45.351371 13434] Working directory: /home/xnoname/Documents/CLHEXED/main.onefile-build
+[2025-07-19T14:52:45.351507 13434] Compiler: /usr/bin/gcc
+[2025-07-19T14:52:45.351511 13434] Compiler type: gcc
+[2025-07-19T14:52:45.351566 13434] Detected input file: static_src/OnefileBootstrap.c
+[2025-07-19T14:52:45.351596 13434] Source file: static_src/OnefileBootstrap.c
+[2025-07-19T14:52:45.351600 13434] Object file: static_src/OnefileBootstrap.o
+[2025-07-19T14:52:45.351639 13434] Trying direct lookup
+[2025-07-19T14:52:45.351704 13434] Manifest key: 85e7ougevurllnmoqniic4ptj1s9adaeo
+[2025-07-19T14:52:45.351735 13434] Retrieved 85e7ougevurllnmoqniic4ptj1s9adaeo from local storage (/home/xnoname/.cache/Nuitka/ccache/8/5/e7ougevurllnmoqniic4ptj1s9adaeoM)
+[2025-07-19T14:52:45.352997 13434] Too new ctime or mtime of ./onefile_definitions.h, not considering for inode cache
+[2025-07-19T14:52:45.353015 13434] Too new ctime or mtime of ./onefile_definitions.h, not considering for inode cache
+[2025-07-19T14:52:45.353307 13434] Got result key from manifest
+[2025-07-19T14:52:45.353312 13434] Result key: 8ac9obc5t26ciiba8618t0amjq687r6v0
+[2025-07-19T14:52:45.353396 13434] Retrieved 8ac9obc5t26ciiba8618t0amjq687r6v0 from local storage (/home/xnoname/.cache/Nuitka/ccache/8/a/c9obc5t26ciiba8618t0amjq687r6v0R)
+[2025-07-19T14:52:45.353774 13434] Reading embedded entry #0 .o (203592 bytes)
+[2025-07-19T14:52:45.353779 13434] Writing to static_src/OnefileBootstrap.o
+[2025-07-19T14:52:45.353966 13434] Succeeded getting cached result
+[2025-07-19T14:52:45.353977 13434] Result: direct_cache_hit
+[2025-07-19T14:52:45.353980 13434] Result: local_storage_hit
+[2025-07-19T14:52:45.353983 13434] Result: local_storage_read_hit
+[2025-07-19T14:52:45.353987 13434] Result: local_storage_read_hit
+[2025-07-19T14:52:45.353995 13434] Acquiring /home/xnoname/.cache/Nuitka/ccache/7/a/stats.lock
+[2025-07-19T14:52:45.354041 13434] Acquired /home/xnoname/.cache/Nuitka/ccache/7/a/stats.lock
+[2025-07-19T14:52:45.354045 13434] Creating /home/xnoname/.cache/Nuitka/ccache/7/a/stats.alive
+[2025-07-19T14:52:45.354216 13434] Releasing /home/xnoname/.cache/Nuitka/ccache/7/a/stats.lock
+[2025-07-19T14:52:45.354243 13434] Released /home/xnoname/.cache/Nuitka/ccache/7/a/stats.lock
+[2025-07-19T14:52:45.354255 13434] Accumulated stats for inode cache: hits=0, misses=0, errors=0
