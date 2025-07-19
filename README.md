@@ -64,13 +64,19 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
    cd CLHEXED
    ```
 
-2. Beri izin executable:
+2. Install Requirements:
+
+   ```bash
+   pip install -r requirements --break-system-packages
+   ```
+
+3. Beri izin executable:
 
    ```bash
    chmod +x clhexed.bin
    ```
 
-3. Jalankan CLHEXED:
+4. Jalankan CLHEXED:
 
    ```bash
    ./clhexed.bin
