@@ -47,7 +47,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
   Deteksi celah Cross-Site Scripting pada website target.
 
 - **Auto Setup Environment**  
-  Jalankan `./clhexed.bin setup` untuk:  
+  Jalankan `./clhexed.bin` untuk:  
   • Menginstall Go secara otomatis  
   • Beralih ke Zsh dengan Oh-My-Zsh  
   • Install dan konfigurasi Docker secara otomatis  
@@ -59,22 +59,22 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
 
 1. Clone repository:
 
-   > ```bash
-   > git clone https://github.com/denoyey/CLHEXED.git
-   > cd CLHEXED
-   > ```
+   ```bash
+   git clone https://github.com/denoyey/CLHEXED.git
+   cd CLHEXED
+   ```
 
 2. Beri izin executable:
 
-   > ```bash
-   > chmod +x clhexed.bin
-   > ```
+   ```bash
+   chmod +x clhexed.bin
+   ```
 
 3. Jalankan CLHEXED:
 
-   > ```bash
-   > ./clhexed.bin
-   > ```
+   ```bash
+   ./clhexed.bin
+   ```
 
 
 ## 📦 Tools Terinstall Otomatis Saat Setup
