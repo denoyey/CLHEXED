@@ -112,4 +112,4 @@ Penyalahgunaan adalah tanggung jawab pengguna.
 
 ## 📬 Kontak
 
-GitHub Issues: [https://github.com/username/CLHEXED/issues](https://github.com/username/CLHEXED/issues)
+GitHub Issues: [https://github.com/denoyey/CLHEXED/issues](https://github.com/denoyey/CLHEXED/issues)
