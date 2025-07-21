@@ -14,6 +14,8 @@
 ![Forks](https://img.shields.io/github/forks/denoyey/CLHEXED?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/denoyey/CLHEXED?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/denoyey/CLHEXED?style=flat-square)
+<br />
+![](https://api.visitorbadge.io/api/VisitorHit?user=denoyeyf&repo=Convex-badge&countColor=%237B1E7A)
 
 </p>
 
