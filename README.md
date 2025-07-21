@@ -17,6 +17,7 @@
 
 </p>
 
+<br />
 
 ## 📚 Table of Contents
 
@@ -28,12 +29,14 @@
 - [⚠️ Disclaimer](#️-disclaimer)
 - [📬 Kontak](#-kontak)
 
+<br />
 
 ## ⚡ Overview
 
 CLHEXED adalah toolkit terminal serbaguna untuk ethical hacker, pentester, dan bug bounty hunter.  
 Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa perlu konfigurasi rumit.
 
+<br />
 
 ## ✨ Fitur Utama
 
@@ -54,6 +57,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
   • Install tools hacking populer seperti nmap, sqlmap, ffuf, subfinder, dll  
   • Deploy vulnerable labs (DVWA, bWAPP, Yavuzlar) secara otomatis
 
+<br />
 
 ## ⚙️ Instalasi
 
@@ -82,6 +86,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
    ./clhexed.bin
    ```
 
+<br />
 
 ## 📦 Tools Terinstall Otomatis Saat Setup
 
@@ -96,6 +101,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
 - Docker & Docker-compose  
 - Beralih dari bash ke Zsh (dengan Oh-My-Zsh)
 
+<br />
 
 ## 🧪 Labs Vulnerable yang Didukung
 
@@ -103,6 +109,7 @@ Semua fitur hacking dan OSINT dikemas dalam satu executable `clhexed.bin`, tanpa
 - bWAPP  
 - Yavuzlar Vulnerable Labs  
 
+<br />
 
 ## ⚠️ Disclaimer
 
